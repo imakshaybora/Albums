@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Albums</string>
+    <string name="loading_album">Loading albums</string>
+    <string name="no_data">No Data</string>
+</resources>
